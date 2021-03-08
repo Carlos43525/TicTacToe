@@ -1,0 +1,36 @@
+/* StartGame() that clears the previous board 
+   if one existed. And begins the game.
+*/ 
+
+
+/* 
+    handleClick() that asigns the proper X or O marker on click
+    dependant on who's turn it is. 
+*/
+
+
+/* 
+    placeMarker() that adds proper class to HTML element.
+    Thereby placing an X or O.
+*/
+
+
+/* 
+    changeTurns() that changes the turn of the players.
+*/
+
+
+/* 
+    isWinner() checks for a winner before each turn.
+*/
+
+
+/* 
+    setHover() changes the css hover class by turn by adding the 
+    .x or .circle classes.
+*/
+
+
+/*
+    Array with all winning combinations
+*/
